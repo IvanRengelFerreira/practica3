@@ -10,7 +10,7 @@ public class Principal{
     public static void main(String[] args){
 
     Scanner sc = new Scanner(System.in);
-    //System.out.println("Ingrese el número de pasos para calcular PI");
+    System.out.println("Ingrese el número de decimales en funcion de potencias de 10 para calcular el número PI(Ejemplo: 1000000):");
     
     long pasos = sc.nextLong();
       
